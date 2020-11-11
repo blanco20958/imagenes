@@ -1,0 +1,8 @@
+C:\Users\blanco20958\source\repos\imagenes\imagenes\bin\Debug\netcoreapp2.1\imagenes.deps.json
+C:\Users\blanco20958\source\repos\imagenes\imagenes\bin\Debug\netcoreapp2.1\imagenes.runtimeconfig.json
+C:\Users\blanco20958\source\repos\imagenes\imagenes\bin\Debug\netcoreapp2.1\imagenes.runtimeconfig.dev.json
+C:\Users\blanco20958\source\repos\imagenes\imagenes\bin\Debug\netcoreapp2.1\imagenes.dll
+C:\Users\blanco20958\source\repos\imagenes\imagenes\obj\Debug\netcoreapp2.1\imagenes.csprojAssemblyReference.cache
+C:\Users\blanco20958\source\repos\imagenes\imagenes\obj\Debug\netcoreapp2.1\imagenes.csproj.CoreCompileInputs.cache
+C:\Users\blanco20958\source\repos\imagenes\imagenes\obj\Debug\netcoreapp2.1\imagenes.AssemblyInfoInputs.cache
+C:\Users\blanco20958\source\repos\imagenes\imagenes\obj\Debug\netcoreapp2.1\imagenes.AssemblyInfo.cs
