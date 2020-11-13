@@ -807,11 +807,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\blanco20958\\source\\repos\\imagenes\\imagenes\\imagenes.csproj",
+      "projectUniqueName": "C:\\Users\\blanco20958\\source\\repos\\blanco20958\\imagenes\\imagenes\\imagenes\\imagenes.csproj",
       "projectName": "imagenes",
-      "projectPath": "C:\\Users\\blanco20958\\source\\repos\\imagenes\\imagenes\\imagenes.csproj",
+      "projectPath": "C:\\Users\\blanco20958\\source\\repos\\blanco20958\\imagenes\\imagenes\\imagenes\\imagenes.csproj",
       "packagesPath": "C:\\Users\\blanco20958\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\blanco20958\\source\\repos\\imagenes\\imagenes\\obj\\",
+      "outputPath": "C:\\Users\\blanco20958\\source\\repos\\blanco20958\\imagenes\\imagenes\\imagenes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
