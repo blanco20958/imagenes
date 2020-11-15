@@ -29,3 +29,15 @@ C:\Users\AUDIO DE LOS AUDIOS\Documents\GitHub\imagenes\imagenes\imagenes\obj\Deb
 C:\Users\AUDIO DE LOS AUDIOS\Documents\GitHub\imagenes\imagenes\imagenes\obj\Debug\netcoreapp2.1\imagenes.dll
 C:\Users\AUDIO DE LOS AUDIOS\Documents\GitHub\imagenes\imagenes\imagenes\obj\Debug\netcoreapp2.1\imagenes.pdb
 C:\Users\AUDIO DE LOS AUDIOS\Documents\GitHub\imagenes\imagenes\imagenes\obj\Debug\netcoreapp2.1\imagenes.genruntimeconfig.cache
+C:\Users\AUDIO DE LOS AUDIOS\Desktop\GitHub\imagenes\imagenes\imagenes\bin\Debug\netcoreapp2.1\imagenes.deps.json
+C:\Users\AUDIO DE LOS AUDIOS\Desktop\GitHub\imagenes\imagenes\imagenes\bin\Debug\netcoreapp2.1\imagenes.runtimeconfig.json
+C:\Users\AUDIO DE LOS AUDIOS\Desktop\GitHub\imagenes\imagenes\imagenes\bin\Debug\netcoreapp2.1\imagenes.runtimeconfig.dev.json
+C:\Users\AUDIO DE LOS AUDIOS\Desktop\GitHub\imagenes\imagenes\imagenes\bin\Debug\netcoreapp2.1\imagenes.dll
+C:\Users\AUDIO DE LOS AUDIOS\Desktop\GitHub\imagenes\imagenes\imagenes\bin\Debug\netcoreapp2.1\imagenes.pdb
+C:\Users\AUDIO DE LOS AUDIOS\Desktop\GitHub\imagenes\imagenes\imagenes\obj\Debug\netcoreapp2.1\imagenes.csprojAssemblyReference.cache
+C:\Users\AUDIO DE LOS AUDIOS\Desktop\GitHub\imagenes\imagenes\imagenes\obj\Debug\netcoreapp2.1\imagenes.AssemblyInfoInputs.cache
+C:\Users\AUDIO DE LOS AUDIOS\Desktop\GitHub\imagenes\imagenes\imagenes\obj\Debug\netcoreapp2.1\imagenes.AssemblyInfo.cs
+C:\Users\AUDIO DE LOS AUDIOS\Desktop\GitHub\imagenes\imagenes\imagenes\obj\Debug\netcoreapp2.1\imagenes.csproj.CoreCompileInputs.cache
+C:\Users\AUDIO DE LOS AUDIOS\Desktop\GitHub\imagenes\imagenes\imagenes\obj\Debug\netcoreapp2.1\imagenes.dll
+C:\Users\AUDIO DE LOS AUDIOS\Desktop\GitHub\imagenes\imagenes\imagenes\obj\Debug\netcoreapp2.1\imagenes.pdb
+C:\Users\AUDIO DE LOS AUDIOS\Desktop\GitHub\imagenes\imagenes\imagenes\obj\Debug\netcoreapp2.1\imagenes.genruntimeconfig.cache

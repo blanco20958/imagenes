@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AUDIO DE LOS AUDIOS\\Documents\\GitHub\\imagenes\\imagenes\\imagenes\\imagenes.csproj": {}
+    "C:\\Users\\AUDIO DE LOS AUDIOS\\Desktop\\GitHub\\imagenes\\imagenes\\imagenes\\imagenes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AUDIO DE LOS AUDIOS\\Documents\\GitHub\\imagenes\\imagenes\\imagenes\\imagenes.csproj": {
+    "C:\\Users\\AUDIO DE LOS AUDIOS\\Desktop\\GitHub\\imagenes\\imagenes\\imagenes\\imagenes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AUDIO DE LOS AUDIOS\\Documents\\GitHub\\imagenes\\imagenes\\imagenes\\imagenes.csproj",
+        "projectUniqueName": "C:\\Users\\AUDIO DE LOS AUDIOS\\Desktop\\GitHub\\imagenes\\imagenes\\imagenes\\imagenes.csproj",
         "projectName": "imagenes",
-        "projectPath": "C:\\Users\\AUDIO DE LOS AUDIOS\\Documents\\GitHub\\imagenes\\imagenes\\imagenes\\imagenes.csproj",
+        "projectPath": "C:\\Users\\AUDIO DE LOS AUDIOS\\Desktop\\GitHub\\imagenes\\imagenes\\imagenes\\imagenes.csproj",
         "packagesPath": "C:\\Users\\AUDIO DE LOS AUDIOS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AUDIO DE LOS AUDIOS\\Documents\\GitHub\\imagenes\\imagenes\\imagenes\\obj\\",
+        "outputPath": "C:\\Users\\AUDIO DE LOS AUDIOS\\Desktop\\GitHub\\imagenes\\imagenes\\imagenes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AUDIO DE LOS AUDIOS\\AppData\\Roaming\\NuGet\\NuGet.Config",

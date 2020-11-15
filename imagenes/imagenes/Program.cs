@@ -92,7 +92,7 @@ namespace imagene
             DrawTeachersFace(bitmap);
 
 
-            bitmap.Save("C:\\Users\\AUDIO DE LOS AUDIOS\\Documents\\GitHub\\prueba.pgn");
+            bitmap.Save("C:\\Users\\AUDIO DE LOS AUDIOS\\Desktop\\GitHub\\prueba.pgn");
             //bitmap.Save("C:\\Users\\blanco20958\\Desktop\\repos\\prueba.png");
 
             
